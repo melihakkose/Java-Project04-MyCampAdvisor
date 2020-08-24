@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "AndroidStudio_Java_Project04_MyCampAdvisor"
