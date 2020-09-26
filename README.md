@@ -20,7 +20,8 @@
  - onMapLongClick özelliği
  - Add Marker özelliği
 
-GoogleMapsTraining:
+# GoogleMapsTraining
+
 Bu dosyanın içerisinde GoogleMaps ile yapabileceğimiz:
 - Kullanıcının yer bilgisini alma
 - Kullanıcı uzun süre haritaya tıkladığında yer bilgilerini alma
