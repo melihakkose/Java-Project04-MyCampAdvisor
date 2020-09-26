@@ -31,12 +31,11 @@ Bu dosyanın içerisinde GoogleMaps ile yapabileceğimiz:
 gibi kodlar yer almakta.
 
 GoogleMaps API KEY olusturmak için:
-res ->
-values ->
-google_maps_api.xml ->
+<br>
+res -> values -> google_maps_api.xml -> <br>
 dosyası altındaki
 " To get one, follow this link, follow the directions and press "Create" at the end:"
-altındaki linki tarayıcınızda açarak google hesabından girip API KEY olusturmalısınız.
-Ardından bu Key' i
-"<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">Your-API-KEY</string>"
-Your-API-KEY yazan yere yapıştırmanız gerekmekte.
+altındaki linki tarayıcınızda açarak google hesabından girip API KEY olusturmalısınız. <br>
+Ardından bu Key' i <br>
+Your API KEY yazan yere yapıştırmanız gerekmekte.
+
