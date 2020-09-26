@@ -19,3 +19,23 @@
  - private değişken kullanımı
  - onMapLongClick özelliği
  - Add Marker özelliği
+
+GoogleMapsTraining:
+Bu dosyanın içerisinde GoogleMaps ile yapabileceğimiz:
+- Kullanıcının yer bilgisini alma
+- Kullanıcı uzun süre haritaya tıkladığında yer bilgilerini alma
+- Yer bilgilerini filtreleme
+- Kullanıcının eklemesi için Marker oluşturma
+- API Key olusturma 
+gibi kodlar yer almakta.
+
+GoogleMaps API KEY olusturmak için:
+res ->
+values ->
+google_maps_api.xml ->
+dosyası altındaki
+" To get one, follow this link, follow the directions and press "Create" at the end:"
+altındaki linki tarayıcınızda açarak google hesabından girip API KEY olusturmalısınız.
+Ardından bu Key' i
+"<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">Your-API-KEY</string>"
+Your-API-KEY yazan yere yapıştırmanız gerekmekte.
