@@ -39,3 +39,10 @@ altındaki linki tarayıcınızda açarak google hesabından girip API KEY olust
 Ardından bu Key' i <br>
 Your API KEY yazan yere yapıştırmanız gerekmekte.
 
+
+# MyCampAdvisor VERSION 0.2
+
+- Kodlar daha derli toplu daha sade şekilde gerçekleştirildi.
+- Model kullanılarak daha hızlı işlem yapıldı.
+- Alert Dialog ile işlem yapıldı.
+- Telefon geri basma tuşu kodları eklendi böylelikle değişiklikler daha hızlı kontrol edilebilir oldu.
